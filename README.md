@@ -49,7 +49,7 @@ I manage the organizational backbone that allows GMBSells to scale:
 ## 🤝 For Operational Inquiries & Bulk Orders
 Need a custom workflow for a large-scale project? Contact our executive team:
 
-- **Founder:** Mike (@GMBSells-Dev)
+- **Founder:** Mike [@GMBSells-Dev](https://github.com/GMBSells-dev)
 - **Marketplace:** [gmbsells.com](https://gmbsells.com)
 - **Telegram:** [@GMBSells24](https://t.me/GMBSells24)
 - **Email:** gmbsells.info@gmail.com
